@@ -11,3 +11,10 @@
 1. git add --all   OR git add .	
 2. git commit -m "here i give my message"
 3. git push origin master
+
+
+## Command Line(CMD) tutorial ##
+1. Change directories
+	* Go forth ==> cd theFileIWantToGo
+	* Go back ==>  cd ..
+2. Check the files within the directory i am currently in ==> dir
